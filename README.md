@@ -2,13 +2,7 @@
 
 ## Getting Started
 
-1. Clone the repository by running the command
-
-    ```bash
-    git clone https://github.com/Purdue-ECE438-Labs/lab2-<github_username>.git  # using web URL
-    # or
-    git clone git@github.com:Purdue-ECE438-Labs/lab2-<github_username>.git  # using SSH
-    ```
+1. Git clone the repository.
 
 2. Complete the individual lab report `lab2_report.ipynb`.
 
